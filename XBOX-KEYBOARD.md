@@ -31,7 +31,7 @@ Menu/Escape
 *Examples:  
 E for interactions  
 Enter for text done   
-**Examples: 
+**Examples:  
 Escape for closing interactions/menus   
 Backspace for text remove  
 ***Examples:  
