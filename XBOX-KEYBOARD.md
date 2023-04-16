@@ -30,10 +30,10 @@ Menu/Escape
 # Info
 *Examples:  
 E for interactions  
-Enter for text done 
+Enter for text done   
 **Examples: 
-Escape for closing interactions/menus 
-Backspace for text remove 
+Escape for closing interactions/menus   
+Backspace for text remove  
 ***Examples:  
 Scroll for switching slots  
 C for Primary attack  
