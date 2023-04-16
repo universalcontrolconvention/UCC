@@ -28,15 +28,15 @@ RB-Scroll Down/V(Contextual****)
 ## Specials
 Menu/Escape
 # Info
-*Examples:
+*Examples:  
 E for interactions  
-Enter for text done
-**Examples:
+Enter for text done 
+**Examples: 
 Escape for closing interactions/menus 
-Backspace for text remove
-***Examples:
+Backspace for text remove 
+***Examples:  
 Scroll for switching slots  
-C for Primary attack
-***Examples:
+C for Primary attack  
+***Examples:  
 Scroll for switching slots  
 V for Secondary attack
